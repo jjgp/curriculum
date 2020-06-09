@@ -1,5 +1,10 @@
 # Curriculum
 
+## Contents
+
+[Books](#Books), [Courses](#Courses), [Feeds](#Feeds), [Papers](#Papers), [References](#References), [Platforms](#Platforms), [Projects](#Projects), [Repositories](#Repositories), [Repositories: Frameworks](#Frameworks), [Repositories: Tooling](#Tooling)
+
+
 ### Books
 
 - [An Introduction to Statistcal Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James and Daniela Witten and Trevor Hastie and Robert Tibshirani
@@ -31,9 +36,14 @@
 ### Feeds
 
 - [A Gentle Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) on YouTube
+- [blogs.microsoft.com/ai/](https://blogs.microsoft.com/ai/)
+- [blogs.nvidia.com/blog/category/deep-learning/](https://blogs.nvidia.com/blog/category/deep-learning/)
 - [deepmind.com/blog](https://deepmind.com/blog)
+- [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) on YouTube
 - [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) on YouTube
 - [openai.com/blog/](https://openai.com/blog/)
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz) on YouTube
+- [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) on YouTube
 
 ### Papers
 
@@ -41,9 +51,12 @@
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Connected Papers](https://www.connectedpapers.com/)
 - [d_examples_of_good_science_in_deep_learning](https://www.reddit.com/r/MachineLearning/comments/gpgspf/d_examples_of_good_science_in_deep_learning/)
+- [Explainable Deep Learning: A Field Guide for the Uninitiated](https://arxiv.org/abs/2004.14545)
 - [GNNPapers](https://github.com/thunlp/GNNPapers)
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 - [paperswithcode](https://paperswithcode.com/)
+
+_Remember to setup Google Scholar alerts by following the authors or creating an alert query!_ 
 
 ### Platforms
 
@@ -51,6 +64,10 @@
 - [Deepnote](https://deepnote.com/)
 
 ### Projects
+
+### References
+
+- [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#diagnostics)
 
 ### Resources
 
