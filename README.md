@@ -2,7 +2,7 @@
 
 ## Contents
 
-[Books](#Books), [Courses](#Courses), [Feeds](#Feeds), [Papers](#Papers), [References](#References), [Platforms](#Platforms), [Projects](#Projects), [Repositories](#Repositories), [Repositories: Frameworks](#Frameworks), [Repositories: Tooling](#Tooling)
+[Books](#Books), [Courses](#Courses), [Feeds](#Feeds), [Papers](#Papers), [References](#References), [Platforms](#Platforms), [Projects](#Projects), [Repositories](#Repositories), [Repositories: Frameworks](#Frameworks), [Repositories: Implementations](#Implementations), [Repositories: Tooling](#Tooling)
 
 
 ### Books
@@ -31,6 +31,7 @@
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) on MIT Open Courseware
 - [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) on Udacity
 - [Neuromatch Academy 2020](https://neuromatch.io/academy/)
+- [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
 - [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) on Udacity
 
 ### Feeds
@@ -41,6 +42,7 @@
 - [deepmind.com/blog](https://deepmind.com/blog)
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) on YouTube
 - [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) on YouTube
+- [NVIDIA Toronto AI Lab](https://nv-tlabs.github.io/)
 - [openai.com/blog/](https://openai.com/blog/)
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz) on YouTube
 - [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) on YouTube
@@ -79,6 +81,12 @@ _Remember to setup Google Scholar alerts by following the authors or creating an
 
 - [deepmind/acme](https://github.com/deepmind/acme)
 > A library of reinforcement learning components and agents
+- [openai/gym](https://github.com/openai/gym)
+> A toolkit for developing and comparing reinforcement learning algorithms. https://gym.openai.com/
+
+#### Implementations
+
+
 
 #### Tooling
 
@@ -92,3 +100,5 @@ _Remember to setup Google Scholar alerts by following the authors or creating an
 > An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. https://nni.readthedocs.io/en/latest/
 - [optuna/optuna](https://github.com/optuna/optuna)
 > A hyperparameter optimization framework https://optuna.org
+- [PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool)
+> Source code/webpage/demos for the What-If Tool https://pair-code.github.io/what-if-tool
