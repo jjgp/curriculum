@@ -81,19 +81,32 @@ _Remember to setup Google Scholar alerts by following the authors or creating an
 
 - [deepmind/acme](https://github.com/deepmind/acme)
 > A library of reinforcement learning components and agents
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+> Machine Learning in one line of code http://mindsdb.com
 - [openai/gym](https://github.com/openai/gym)
 > A toolkit for developing and comparing reinforcement learning algorithms. https://gym.openai.com/
 
 #### Implementations
 
+#### Lists
 
+- [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
+> Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! https://deep-learning-drizzle.github.io
 
 #### Tooling
 
+- [https://github.com/cortexlabs/cortex](https://github.com/cortexlabs/cortex)
+> Machine learning model serving infrastructure https://cortex.dev
 - [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot)
 > A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/
+- [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad)
+> A Python toolbox for performing gradient-free optimization
+- [IBM/AIF360](https://github.com/IBM/AIF360)
+> A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models. http://aif360.mybluemix.net/
 - [interpretml/interpret](https://github.com/interpretml/interpret)
 > Fit interpretable models. Explain blackbox machine learning.
+- [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner)
+> Hyperparameter tuning for humans
 - [microsoft/hummingbird](https://github.com/microsoft/hummingbird)
 > Hummingbird compiles trained ML models into tensor computation for faster inference.
 - [microsoft/nni](https://github.com/microsoft/nni)
