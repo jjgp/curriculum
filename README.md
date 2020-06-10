@@ -90,6 +90,8 @@ _Remember to setup Google Scholar alerts by following the authors or creating an
 
 - [aimacode/aima-python](https://github.com/aimacode/aima-python)
 > Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+> All Algorithms implemented in Python https://travis-ci.com/TheAlgorithms/P…
 
 #### Lists
 
