@@ -41,6 +41,7 @@
 - [blogs.nvidia.com/blog/category/deep-learning/](https://blogs.nvidia.com/blog/category/deep-learning/)
 - [deepmind.com/blog](https://deepmind.com/blog)
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) on YouTube
+- [Lil'Log](https://lilianweng.github.io/lil-log/)
 - [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) on YouTube
 - [NVIDIA Toronto AI Lab](https://nv-tlabs.github.io/)
 - [openai.com/blog/](https://openai.com/blog/)
@@ -49,10 +50,9 @@
 
 ### Papers
 
-- [awesome-deep-learning#papers](https://github.com/ChristosChristofidis/awesome-deep-learning#papers)
-- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Connected Papers](https://www.connectedpapers.com/)
 - [d_examples_of_good_science_in_deep_learning](https://www.reddit.com/r/MachineLearning/comments/gpgspf/d_examples_of_good_science_in_deep_learning/)
+- [d_what_is_the_best_ml_paper_you_read_in_2017_and](https://www.reddit.com/r/MachineLearning/comments/7n69h0/d_what_is_the_best_ml_paper_you_read_in_2017_and/)
 - [Explainable Deep Learning: A Field Guide for the Uninitiated](https://arxiv.org/abs/2004.14545)
 - [GNNPapers](https://github.com/thunlp/GNNPapers)
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love)
@@ -88,8 +88,13 @@ _Remember to setup Google Scholar alerts by following the authors or creating an
 
 #### Implementations
 
+- [aimacode/aima-python](https://github.com/aimacode/aima-python)
+> Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
+
 #### Lists
 
+- [awesome-deep-learning#papers](https://github.com/ChristosChristofidis/awesome-deep-learning#papers)
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
 > Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! https://deep-learning-drizzle.github.io
 
@@ -115,3 +120,5 @@ _Remember to setup Google Scholar alerts by following the authors or creating an
 > A hyperparameter optimization framework https://optuna.org
 - [PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool)
 > Source code/webpage/demos for the What-If Tool https://pair-code.github.io/what-if-tool
+- [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro)
+> A Python library that implements software engineering best-practice for data and ML pipelines. https://kedro.readthedocs.io/
