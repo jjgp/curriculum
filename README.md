@@ -2,7 +2,7 @@
 
 ## Contents
 
-[Books](#Books), [Courses](#Courses), [Feeds](#Feeds), [Papers](#Papers), [References](#References), [Platforms](#Platforms), [Projects](#Projects), [Repositories](#Repositories), [Repositories: Frameworks](#Frameworks), [Repositories: Implementations](#Implementations), [Repositories: Tooling](#Tooling)
+[Books](#Books), [Courses](#Courses), [Feeds](#Feeds), [Other](#Other), [Papers](#Papers), [References](#References), [Platforms](#Platforms), [Projects](#Projects), [Repositories](#Repositories), [Repositories: Frameworks](#Frameworks), [Repositories: Implementations](#Implementations), [Repositories: Tooling](#Tooling)
 
 
 ### Books
@@ -24,22 +24,31 @@
 
 - [Artificial Intelligence](https://www.udacity.com/course/artificial-intelligence--ud954) on Udacity
 - [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience/home/welcome) on Coursera
+- [CS 330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera
+- [deeplearning.ai](https://www.deeplearning.ai/)
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning/home/welcome) on Coursera
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) on Udacity
+- [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) on MIT Open Courseware
+- [Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/) on AWS
 - [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) on Udacity
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm) on MIT Open Courseware
 - [Neuromatch Academy 2020](https://neuromatch.io/academy/)
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
 - [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) on Udacity
+- [UCL Course on RL](https://www.davidsilver.uk/teaching/)
 
 ### Feeds
 
 - [A Gentle Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) on YouTube
+- [Andrej Karpathy blog](https://karpathy.github.io/)
 - [blogs.microsoft.com/ai/](https://blogs.microsoft.com/ai/)
 - [blogs.nvidia.com/blog/category/deep-learning/](https://blogs.nvidia.com/blog/category/deep-learning/)
 - [deepmind.com/blog](https://deepmind.com/blog)
+- [freenode-machinelearning.github.io](https://freenode-machinelearning.github.io/Resources/ArticlesReview.html#papers)
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) on YouTube
 - [Lil'Log](https://lilianweng.github.io/lil-log/)
 - [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) on YouTube
@@ -48,13 +57,20 @@
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz) on YouTube
 - [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) on YouTube
 
+### Other
+
+- [Best of Machine Learning](https://bestofml.com/)
+- [Made With ML](https://madewithml.com/)
+
 ### Papers
 
+- [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
 - [Connected Papers](https://www.connectedpapers.com/)
 - [d_examples_of_good_science_in_deep_learning](https://www.reddit.com/r/MachineLearning/comments/gpgspf/d_examples_of_good_science_in_deep_learning/)
 - [d_what_is_the_best_ml_paper_you_read_in_2017_and](https://www.reddit.com/r/MachineLearning/comments/7n69h0/d_what_is_the_best_ml_paper_you_read_in_2017_and/)
 - [Explainable Deep Learning: A Field Guide for the Uninitiated](https://arxiv.org/abs/2004.14545)
 - [GNNPapers](https://github.com/thunlp/GNNPapers)
+- [Key Papers in Deep RL](https://docs.google.com/document/d/1t55CCHabmHmrJ1VRoOSmQmR9lHkClAPxOlYGuvmof2Q/edit)
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 - [paperswithcode](https://paperswithcode.com/)
 
@@ -64,6 +80,7 @@ _Remember to setup Google Scholar alerts by following the authors or creating an
 
 - [comet.ml](https://www.comet.ml/site/)
 - [Deepnote](https://deepnote.com/)
+- [Weights & Biases](https://www.wandb.com/)
 
 ### Projects
 
