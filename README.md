@@ -29,7 +29,7 @@
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera
 - [deeplearning.ai](https://www.deeplearning.ai/)
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning/home/welcome) on Coursera
-- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) on Udacity
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) on Udacity
 - [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) on MIT Open Courseware
