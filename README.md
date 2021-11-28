@@ -63,8 +63,6 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 - [paperswithcode](https://paperswithcode.com/)
 
-_Remember to setup Google Scholar alerts by following the authors or creating an alert query!_ 
-
 ### Lists
 
 - [awesome-deep-learning#papers](https://github.com/ChristosChristofidis/awesome-deep-learning#papers)
