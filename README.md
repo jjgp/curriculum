@@ -28,7 +28,7 @@
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) on MIT Open Courseware
 - [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) on Udacity
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm) on MIT Open Courseware
-- [NYU Deep Learning](https://deeplehttps://github.com/Atcold/NYU-DLSP21)
+- [NYU Deep Learning](https://github.com/Atcold/NYU-DLSP21)
 - [UCL Course on RL](https://www.davidsilver.uk/teaching/)
 
 ### Feeds
